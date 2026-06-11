@@ -10,6 +10,7 @@ Greenden is a modern and responsive plant shop website built using HTML and Tail
 + Contact page for user inquiries
 + Clean and organized code structure
 + Fast and lightweight website
+
 🛠️ Technologies Used
 - HTML5
 - Tailwind CSS
